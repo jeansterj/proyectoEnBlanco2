@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+.bannerSuperior {
+   
+   
+    background-color: #333333;
+    align-items: center;
+    display: flex;    
+      height: 80px;
+      margin-top: -9px;
+      margin-left: -9px;
+      margin-right: -8px;
+      justify-content: space-between;
+      padding-right: 30px;
+      padding-left: 30px;
+     
+     
+     
+  }
+  .bannerSuperior img{
+    margin-top: -9px;
+    margin-left: -8px;
+    margin-right: -9px;
+    margin-bottom: -9px;
+
+}
+.enlaceBanner button{
+
+
+    background-color: #333333;
+    color: white;
+    border: none;
+    margin-left: 5px;
+    padding-right: 5px;
+   
+}
